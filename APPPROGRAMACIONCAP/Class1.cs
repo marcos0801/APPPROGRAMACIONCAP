@@ -14,7 +14,7 @@ namespace APPPROGRAMACIONCAP
     /// <returns></returns> 
     public static class Class1
     {
-        public  static long fact(int num)
+        public  static long fact (int num)
         {
             long f = 1;
             if (num == 0 || num == 1)

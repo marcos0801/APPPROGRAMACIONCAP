@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPPROGRAMACIONCAP", "APPPR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppIUWIN", "AppIUWIN\AppIUWIN.csproj", "{9D372983-B6E5-4472-9465-F368B4D3A850}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPruebafactorial", "AppPruebafactorial\AppPruebafactorial.csproj", "{96516EDF-DD72-4197-8347-A5E8F9AFB303}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9D372983-B6E5-4472-9465-F368B4D3A850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D372983-B6E5-4472-9465-F368B4D3A850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D372983-B6E5-4472-9465-F368B4D3A850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96516EDF-DD72-4197-8347-A5E8F9AFB303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96516EDF-DD72-4197-8347-A5E8F9AFB303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96516EDF-DD72-4197-8347-A5E8F9AFB303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96516EDF-DD72-4197-8347-A5E8F9AFB303}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
