@@ -12,9 +12,22 @@ namespace AppIUWIN
 {
     public partial class Form1 : Form
     {
+        private object res;
+
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btncalcular_Click(object sender, EventArgs e)
+        {
+            double num;
+            num = Double.Parse(this.txtnum.Text);
+
+            res = APPPROGRAMACIONCAP.Factorial.fact(num);
+            this.txtRes.Text = res.ToString();
+
+
         }
     }
 }
